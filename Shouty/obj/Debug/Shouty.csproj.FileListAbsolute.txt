@@ -1,0 +1,6 @@
+C:\Users\bscha\source\repos\Shouty\Shouty\bin\Debug\Shouty.dll
+C:\Users\bscha\source\repos\Shouty\Shouty\bin\Debug\Shouty.pdb
+C:\Users\bscha\source\repos\Shouty\Shouty\obj\Debug\Shouty.csprojAssemblyReference.cache
+C:\Users\bscha\source\repos\Shouty\Shouty\obj\Debug\Shouty.csproj.CoreCompileInputs.cache
+C:\Users\bscha\source\repos\Shouty\Shouty\obj\Debug\Shouty.dll
+C:\Users\bscha\source\repos\Shouty\Shouty\obj\Debug\Shouty.pdb

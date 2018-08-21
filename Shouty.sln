@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shouty", "Shouty\Shouty.csproj", "{D5B8059F-6959-4BDC-83AD-6F9FF442B805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shouty.Spec", "Shouty.Spec\Shouty.Spec.csproj", "{AFCE817A-F593-4791-881F-C4C57B0AFE47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B8059F-6959-4BDC-83AD-6F9FF442B805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B8059F-6959-4BDC-83AD-6F9FF442B805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B8059F-6959-4BDC-83AD-6F9FF442B805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B8059F-6959-4BDC-83AD-6F9FF442B805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCE817A-F593-4791-881F-C4C57B0AFE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCE817A-F593-4791-881F-C4C57B0AFE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCE817A-F593-4791-881F-C4C57B0AFE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCE817A-F593-4791-881F-C4C57B0AFE47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C3E2E4-AC81-4210-B99B-FFEE7BBBD0E0}
+	EndGlobalSection
+EndGlobal
